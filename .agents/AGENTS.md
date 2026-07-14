@@ -1,0 +1,1 @@
+- Selalu rujuk ke design.md sebagai panduan utama setiap kali membuat atau memodifikasi UI (mengikuti tipografi, spacing, dan komponen). 
